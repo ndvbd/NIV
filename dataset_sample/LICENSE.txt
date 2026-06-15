@@ -1,0 +1,18 @@
+NIV Dataset License Notice
+
+This dataset is constructed from variable fonts obtained from the Google Fonts collection.
+
+Each font included in this dataset remains subject to its original license as provided
+by its respective copyright holder. The original license terms apply to each font
+file and must be respected by users of this dataset.
+
+No modifications have been made to the original font binaries that would alter
+their licensing terms.
+
+The preprocessing scripts, metadata, and dataset packaging code introduced
+as part of the NIV project are released under the MIT License.
+
+Users are responsible for reviewing and complying with the license associated
+with each individual font.
+
+Original license files for each font can be obtained from the Google Fonts repository.

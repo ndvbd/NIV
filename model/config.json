@@ -1,0 +1,23 @@
+{
+  "d_model": 256,
+  "num_layers": 6,
+  "num_heads": 8,
+  "ff_mult": 4,
+  "dropout": 0.1,
+  "cond_method": "adaln",
+  "axisembed_method": "combinatorial",
+  "combinatorial_max_order": 1,
+  "pos_enc": "sinusoidal",
+  "point_mlp_hidden": 128,
+  "cond_mlp_hidden": 128,
+  "max_points": 504,
+  "axes": [
+    "opsz",
+    "slnt",
+    "wdth",
+    "wght"
+  ],
+  "point_contour_info": 3,
+  "prediction_type": "total",
+  "split_method": "font"
+}
